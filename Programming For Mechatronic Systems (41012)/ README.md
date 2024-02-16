@@ -1,1 +1,0 @@
-This is my work from my subject 'Programming For Mechatronic Systems (41012)', where I learned advanced computer science skills, and developed C++ techniques including threading, and object oriented design.
